@@ -122,7 +122,7 @@ namespace warriors_fight
             Warrior warriorA = new Warrior(warA, 500, 120, 40);
             Warrior warriorB = new Warrior(warB, 500, 120, 40);
 
-            Console.WriteLine("Let' start the battle");
+            Console.WriteLine("Let's start the battle");
             Console.WriteLine("--------------------------------------------");
 
             //pagwnei to programmagia 2 deyterolepta
