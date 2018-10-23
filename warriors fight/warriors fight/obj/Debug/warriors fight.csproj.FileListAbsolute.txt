@@ -1,0 +1,14 @@
+C:\Users\Δημήτρης\Desktop\visual studio rob miles\warriors fight\warriors fight\bin\Debug\warriors fight.exe.config
+C:\Users\Δημήτρης\Desktop\visual studio rob miles\warriors fight\warriors fight\bin\Debug\warriors fight.exe
+C:\Users\Δημήτρης\Desktop\visual studio rob miles\warriors fight\warriors fight\bin\Debug\warriors fight.pdb
+C:\Users\Δημήτρης\Desktop\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.exe
+C:\Users\Δημήτρης\Desktop\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.pdb
+C:\Users\Δημήτρης\Desktop\C#\visual studio rob miles\warriors fight\warriors fight\bin\Debug\warriors fight.exe.config
+C:\Users\Δημήτρης\Desktop\C#\visual studio rob miles\warriors fight\warriors fight\bin\Debug\warriors fight.exe
+C:\Users\Δημήτρης\Desktop\C#\visual studio rob miles\warriors fight\warriors fight\bin\Debug\warriors fight.pdb
+C:\Users\Δημήτρης\Desktop\C#\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.csprojResolveAssemblyReference.cache
+C:\Users\Δημήτρης\Desktop\C#\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.csproj.CoreCompileInputs.cache
+C:\Users\Δημήτρης\Desktop\C#\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.exe
+C:\Users\Δημήτρης\Desktop\C#\visual studio rob miles\warriors fight\warriors fight\obj\Debug\warriors fight.pdb
